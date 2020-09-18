@@ -72,7 +72,7 @@ const App = () => {
     <>
       <header className="App-header">
         <h1>Lambda Eats</h1>
-        <div>
+        <div className="links">
           <Link to="/">Home</Link>
           <Link to="/order">Pizza!</Link>
         </div>
